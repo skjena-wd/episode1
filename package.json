@@ -1,0 +1,11 @@
+{
+  "name": "episode-01",
+  "version": "1.0.0",
+  "description": "This is Namaste React episode-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sushant Jena",
+  "license": "ISC"
+}
